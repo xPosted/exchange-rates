@@ -7,3 +7,7 @@ Project are build using:
 Embedded MongoDb database is used as main storage, so project should run without any additional configuration.
 Database files should be automatically dowloaded on first run. 
 But offcourse you can use your own MongoDb instance aspecially if you want to use it in production.
+
+Use http://localhost:8080/swagger-ui/index.html as swagger entry point.
+
+
