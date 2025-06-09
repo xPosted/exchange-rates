@@ -1,0 +1,9 @@
+credentials.exchangerate.access_key: "dcbd85c1d820f03f8cdd1ba95f19d3aa"
+
+exchange.rates.ttl.seconds: 60
+
+spring:
+  data:
+    mongodb:
+      port: 27017 # Let Flapdoodle pick a random port for embedded MongoDB
+      database: localdb
